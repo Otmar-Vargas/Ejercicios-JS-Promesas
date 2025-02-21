@@ -19,6 +19,6 @@ Ejercicio 5.
 Ejercicio 6.
 
 Ejercicio 7.
-Para este ejercicio, si tuve que investigar difernetes metodos para realizarlo, empece con un metodo .includes que verifica si un elemento se encuentra en un arreglo, 
+Para este ejercicio, si tuve que investigar diferentes metodos para realizarlo, empece con un metodo .includes que verifica si un elemento se encuentra en un arreglo, 
 pero no podía acceder a el, fue hasta que encontre que solo tenia que ingresar la ciduad en el arreglo y si estaba me mostraria la ciudad, y para poner los atributos solo 
 accedia al arreglo con resolve({ ciudad, ...ciudadesDB[ciudad] });
