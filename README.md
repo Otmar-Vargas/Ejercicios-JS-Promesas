@@ -1,6 +1,6 @@
 # Ejercicios-JS-Promesas
 Ejercicio 1.
-Para este ejericio, solo ocupe modificar el codigo proporcionado por el docente, para que simule una descarga de archivos que no pese mas a 
+Para este ejercicio, solo ocupe modificar el codigo proporcionado por el docente, para que simule una descarga de archivos que no pese mas a 
 50 mb, en caso de sea mayor, nos diga que no se pudo descargar.
 
 
