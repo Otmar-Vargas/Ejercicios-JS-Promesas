@@ -13,10 +13,12 @@ esto investigue un método para verificar una propiedad y di con el método hasO
 existe una propiedad específica dentro de un arreglo, de ahí solo bastó seguir la estructura básica de una promesa para imprimir el resolve y el reject.
 
 Ejercicio 4.
-Para este ejericio, es muy parecido al primero, es una validacion para saber si un monto es mayor o igual a otro.
+Para este ejercicio, es muy parecido al primero, es una validacion para saber si un monto es mayor o igual a otro.
+
 Ejercicio 5.
 
-Ejercicio 6.
+Ejercicio 6. 
+En este ejercicio no hubo muchas complicaciones es muy parecido a los demás solamente que en este necesitas hacer un cálculo utilizando los parámetros dados para retornar un valor al usuario.
 
 Ejercicio 7.
 Para este ejercicio, si tuve que investigar diferentes metodos para realizarlo, empece con un metodo .includes que verifica si un elemento se encuentra en un arreglo, 
